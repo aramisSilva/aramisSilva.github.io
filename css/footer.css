@@ -18,7 +18,7 @@
 
 .footer-contato li {
   font-weight: bold;
-  font-size: 2.25rem;
+  font-size: 1.5rem;
   line-height: 1.1;
   color: #ffffff;
   margin-bottom: 30px;
@@ -42,4 +42,9 @@
   .footer-contato li {
     font-size: 1.5rem;
   }
+}
+.link-github {
+  text-decoration: none;
+  background: tomato;
+  border-radius: 4px;
 }
