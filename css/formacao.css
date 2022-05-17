@@ -142,3 +142,10 @@
     font-size: 1.25rem;
   }
 }
+.foto-lobo {
+  filter: grayscale(1) contrast(1.1);
+  transition: all 300ms;
+}
+.foto-lobo:hover {
+  filter: none;
+}
